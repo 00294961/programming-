@@ -1,5 +1,3 @@
-The first thing i would need to do is get the gameboard and scoreboard up and running
-Next i would need to create the two paddles for the players these paddles will be able to move up and down
-I will need to assign some keys to allow to paddles to move up and down.
-Next i would need to construct to scoring method which will be a ball and if that ball reaches the wall behind the paddle then they score
-Next i would need to add some sound effects so the players can actually enjoy the game.
+I have gotten both paddels and the ball to work
+all i need is to make the ball bounce of the game board and the paddles 
+I also have to creat a scoreboad for the players  
