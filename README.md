@@ -1,4 +1,4 @@
-# programming- project
+# programming- ping pong project
 Joel Lantigua
 For this project I will be doing a pong game where two players will play a game sort of like ping pong
 This code can be ran on python or even on your mac terminal
